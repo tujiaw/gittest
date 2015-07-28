@@ -1,8 +1,0 @@
-// swift
-println("hello, world!")
-
-func sayHello(hello: String) {
-	println(hello)
-}
-// end
-
